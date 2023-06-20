@@ -1,4 +1,4 @@
-package org.homework;
+package org.homework.HwFin;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -29,7 +29,7 @@ public class Program {
         }
 
         //использование кастомной HashMap
-        ru.geekbrains.lesson4.HashMap<String, Employee> hashMap1 = new ru.geekbrains.lesson4.HashMap<>();
+        org.homework.HwFin.HashMap<String, Employee> hashMap1 = new org.homework.HwFin.HashMap<>();
         Employee e1 = hashMap1.put("abc", new Employee("Employee1", 34));
         Employee e2 = hashMap1.put("abcd", new Employee("Employee2", 31));
         Employee e3 = hashMap1.put("abc", new Employee("Employee3", 44));

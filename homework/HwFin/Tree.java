@@ -1,4 +1,4 @@
-package org.homework;
+package org.homework.HwFin;
 
 public class Tree<V extends Comparable<V>> {
     private Node root;
