@@ -1,0 +1,47 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "s".(¹åÌ«ûÿÿÿÿ
+X
+java:S1854*"6Remove this useless assignment to local variable "e8".(®ÑÕ¥úÿÿÿÿ8³¿Â¼‡1
+S
+java:S1854)"6Remove this useless assignment to local variable "e7".(ºõ·ş8´¿Â¼‡1
+X
+java:S1854'"6Remove this useless assignment to local variable "e6".(‚•¾èÿÿÿÿÿ8´¿Â¼‡1
+X
+java:S1854&"6Remove this useless assignment to local variable "e5".(ÑÏäÌúÿÿÿÿ8´¿Â¼‡1
+X
+java:S1854$"6Remove this useless assignment to local variable "e4".(ŞŠ×şÿÿÿÿ8´¿Â¼‡1
+S
+java:S1854#"6Remove this useless assignment to local variable "e3".(ƒÎæŠ8µ¿Â¼‡1
+S
+java:S1854""6Remove this useless assignment to local variable "e2".(ìÃÓ‚8µ¿Â¼‡1
+S
+java:S1854!"6Remove this useless assignment to local variable "e1".(ƒ½ìÛ8µ¿Â¼‡1
+_
+java:S4143"DVerify this is the key that was intended; it was already set before.(ÙÆ°Øüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚ğÉœ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øëÏ–úÿÿÿÿ
+A
+java:S1481"&Remove this unused "s" local variable.(¹åÌ«ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨´ˆ÷
+D
+java:S1481!"'Remove this unused "e1" local variable.(ƒ½ìÛ8¾¿Â¼‡1
+D
+java:S1481""'Remove this unused "e2" local variable.(ìÃÓ‚8¾¿Â¼‡1
+D
+java:S1481#"'Remove this unused "e3" local variable.(ƒÎæŠ8¿¿Â¼‡1
+I
+java:S1481$"'Remove this unused "e4" local variable.(ŞŠ×şÿÿÿÿ8¿¿Â¼‡1
+I
+java:S1481&"'Remove this unused "e5" local variable.(ÑÏäÌúÿÿÿÿ8À¿Â¼‡1
+I
+java:S1481'"'Remove this unused "e6" local variable.(‚•¾èÿÿÿÿÿ8Á¿Â¼‡1
+D
+java:S1481)"'Remove this unused "e7" local variable.(ºõ·ş8Á¿Â¼‡1
+I
+java:S1481*"'Remove this unused "e8" local variable.(®ÑÕ¥úÿÿÿÿ8Â¿Â¼‡1
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(”ÅÀ±8Â¿Â¼‡1
+>
+java:S10682"(Remove this unused "name" private field.(Ë¥¼
+B
+java:S10683"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ
